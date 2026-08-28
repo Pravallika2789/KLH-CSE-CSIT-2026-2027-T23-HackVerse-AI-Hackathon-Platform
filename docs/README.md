@@ -28,8 +28,7 @@ Organizers can manage participants, challenges, timelines, submissions, evaluati
 The adaptive nature of HackVerse allows the platform to respond to changing team requirements and project progress throughout the hackathon. By combining intelligent recommendations, collaboration features, analytics, and centralized event management, HackVerse aims to create a transparent, scalable, and user-friendly ecosystem that improves teamwork, encourages innovation, and enhances the overall hackathon experience and outcomes.
 
 ### Project Abstract Document
-
-[**View the Complete Project Abstract**](docs/Batch%20-%2023%20Project_Abstract.pdf)
+[**View the Complete Project Abstract**](Batch%20-23%20Project_Abstract.pdf)
 
 ## Setup and Execution Instructions
 
