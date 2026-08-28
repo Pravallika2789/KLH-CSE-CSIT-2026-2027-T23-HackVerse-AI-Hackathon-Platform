@@ -63,4 +63,3 @@ cd HackVerse
 - ⏳ Testing and deployment to follow
 
 > **Overall Status: In Progress – Moving from planning to development.**
-
