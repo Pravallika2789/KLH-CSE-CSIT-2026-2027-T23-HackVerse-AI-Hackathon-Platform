@@ -49,7 +49,7 @@ Make sure the following are installed:
 git clone <repository-url>
 cd HackVerse
 ```
-**ends**
+**git**
 ## Current Project Status
 
 ### 🔵 Phase: Review-1 – Planning & Design
