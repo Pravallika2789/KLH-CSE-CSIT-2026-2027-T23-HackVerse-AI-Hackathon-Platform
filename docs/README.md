@@ -55,11 +55,11 @@ cd HackVerse
 
 **Status: In Progress**
 
-- ✅ Problem statement, objectives and literature survey completed
-- ✅ Research gap, innovation and feasibility identified
-- ✅ Five-week project plan prepared
-- 🔄 System architecture and database design in progress
-- ⏳ Frontend, backend and AI module development upcoming
-- ⏳ Testing and deployment to follow
+- ✅ Project requirements and scope have been defined
+- ✅ Problem statement, objectives, and literature survey completed
+- ✅ Research gap, feasibility, and project novelty identified
+- ✅ Initial system design and five-week development plan prepared
+- 🔄 Moving into system architecture, database design, and implementation planning
+- ⏳ Development, AI integration, testing, and deployment are upcoming
 
-> **Overall Status: In Progress – Moving from planning to development.**
+> **Overall Status:** The project has completed the initial research and planning stage and is now moving towards implementation.
