@@ -46,7 +46,7 @@ Make sure the following are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Pravallika2789/KLH-CSE-CSIT-2026-2027-T23-HackVerse-AI-Hackathon-Platform.git)
 cd HackVerse
 ```
 **git**
